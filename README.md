@@ -1,2 +1,9 @@
-# linear-stage
-Projekt akademicki obejmujący wykonanie rysunku technicznego jednostki liniowej na podstawie specyfikacji technicznych i wytycznych projektowych.  
+# Technical Drawing of a Linear Stage Unit  
+
+## Opis projektu  
+Projekt akademicki związany z wykonaniem rysunku technicznego jednostki liniowej, bazujący na założeniach projektowych i normach technicznych.  
+
+## Zakres projektu  
+- Opracowanie rysunku technicznego na podstawie dostarczonych specyfikacji  
+- Wykorzystane narzędzia: Inventor
+- Uwzględnienie wymiarowania i tolerancji  
